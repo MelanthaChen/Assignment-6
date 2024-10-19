@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+@import "./common/resets";
+@import "./components/variables";
+@import "./layout/nav";
+@import "./layout/header";
+@import "./components/about";
+@import "./components/projects";
+@import "./components/reviews";
+@import "./layout/footer";
+@import "./components/pricing";
+@import "./components/price-feature";
+@import "./common/function";
+@import "./components/cta";
+@import "./layout/grid";
+@import "./layout/placeholder";
+
+body {
+  background: #211f22;
+}
+
+
